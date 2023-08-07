@@ -1,2 +1,2 @@
 # aprendendo-js
-Fazendo exercicios
+Resolvendo problemas
